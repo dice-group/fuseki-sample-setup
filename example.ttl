@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Michelle_Obama>.
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Peace_Prize>.

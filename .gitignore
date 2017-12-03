@@ -1,0 +1,4 @@
+data/*
+labels_en.ttl
+apache-jena-*
+run/*
